@@ -1,16 +1,27 @@
-## Hi there 👋
+# Nikolay Zolotukhin
 
-<!--
-**nikoz61/nikoz61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer focused on backend development, Telegram bots and AI integrations.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* FastAPI
+* aiogram
+* PostgreSQL
+* Docker
+* OpenAI API
+* Swift / SwiftUI
+
+## Interests
+
+* AI integrations
+* Backend development
+* Telegram bots
+* Automation tools
+* ML basics
+
+## Projects
+
+* PetSitter Telegram Bot
+* AI Telegram Assistant
+* iOS practice projects
